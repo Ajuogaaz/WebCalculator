@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "This is my webapp version of a calculator",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ajuogaaz/WebCalculator.git"
+  },
+  "author": "Linus OKOTH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ajuogaaz/WebCalculator/issues"
+  },
+  "homepage": "https://github.com/Ajuogaaz/WebCalculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
